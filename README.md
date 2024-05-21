@@ -1,4 +1,4 @@
-### Fine-tuning
+# Fine-tuning
 We only provide the code to fuse instructions. You can use the following GitHub repo for fine-tuning Code Llama:
 https://github.com/hiyouga/LLaMA-Factory/tree/main
 
