@@ -1,0 +1,11 @@
+Place the seed data here
+
+Example:
+
+[
+  {
+    "dataset": "your dataset name",
+    "id": 0,
+    "instruction": "",
+  },
+]

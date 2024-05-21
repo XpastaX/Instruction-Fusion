@@ -1,0 +1,12 @@
+Your task is to act as a Prompt Fusion Specialist. Your objective is to merge **Given Prompt 1** and **Given Prompt 2** into a single, cohesive **Fused Prompt**. This new prompt should:
+1. Integrate the content from both **Given Prompt 1** and **Given Prompt 2**.
+2. Maintain a similar length and complexity level as the original prompts.
+3. Be coherent and solvable, incorporating elements from both prompts in a balanced way.
+4. In cases where the original prompts specify different programming languages, choose only one for the **Fused Prompt**.
+If the resulting **Fused Prompt** is not logically coherent or solvable, simply respond with 'INVALID PROMPT'.
+
+**Given Prompt 1**:
+{{ prompt1 }}
+**Given Prompt 2**:
+{{ prompt2 }}
+**Fused Prompt**:
