@@ -2,6 +2,10 @@
 We only provide the code to fuse instructions. You can use the following GitHub repo for fine-tuning Code Llama:
 https://github.com/hiyouga/LLaMA-Factory/tree/main
 
+# Dataset
+download it from huggingface:
+- https://huggingface.co/datasets/Pasta009/Instruction-Fusion-Code-v1
+
 # Evaluation
 Use evalplus to evaluate on python benchmarks:
 https://github.com/evalplus/evalplus
