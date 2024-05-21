@@ -11,7 +11,10 @@ https://github.com/bigcode-project/bigcode-evaluation-harness
 
 # Released model
 1. IF-CLP-MC-34B
-- dataset： https://huggingface.co/datasets/theblackcat102/evol-codealpaca-v1 + Instruction Fusion + https://huggingface.co/datasets/ise-uiuc/Magicoder-OSS-Instruct-75K
+dataset：
+- https://huggingface.co/datasets/theblackcat102/evol-codealpaca-v1
+- Instruction Fusion
+- https://huggingface.co/datasets/ise-uiuc/Magicoder-OSS-Instruct-75K
 
 Coming Soon
 IF-CLP-MC 7B, 13B
