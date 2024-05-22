@@ -56,4 +56,15 @@ We use evol-codealpaca-v1 as seeds.
 | IF-CL-MC           | 13B  | weight&data | 79.3      | 72.6       | 69.2 | 57.4  |
 | IF-CL-MC           | 34B  | weight&data | 82.3      | 75.6       | 72.4 | 61.4  |
 
+# Bibtex
+```
+@misc{guo2024instruction,
+      title={Instruction Fusion: Advancing Prompt Evolution through Hybridization}, 
+      author={Weidong Guo and Jiuding Yang and Kaitong Yang and Xiangyang Li and Zhuwei Rao and Yu Xu and Di Niu},
+      year={2024},
+      eprint={2312.15692},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
 
