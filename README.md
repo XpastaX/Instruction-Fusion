@@ -13,17 +13,6 @@ https://github.com/evalplus/evalplus
 Use bigcode-evaluation-harness to evalute the performance on MultiPL-E
 https://github.com/bigcode-project/bigcode-evaluation-harness
 
-# Released model
-1. IF-CLP-MC-34B
-- https://huggingface.co/datasets/theblackcat102/evol-codealpaca-v1
-- Instruction Fusion
-- https://huggingface.co/datasets/ise-uiuc/Magicoder-OSS-Instruct-75K
-
-Coming Soon
-IF-CLP-MC 7B, 13B
-IF-CLP 13B, 34B
-IF-CL 13B, 34B
-
 # Seed Template
 {
 "dataset": "your dataset name",
@@ -48,13 +37,13 @@ We use evol-codealpaca-v1 as seeds.
 | CodeGen-Mono       | 16B  | weight&data | 32.9      | 27.4       | 52.6 | 43.6  |
 | CodeLlama-Python   | 34B  | weight      | 51.8      | 42.7       | 67.2 | 52.9  |
 | WizardCoder-CLP    | 34B  | weight      | 73.2      | 64.6       | 73.2 | 59.9  |
-| IF-CLP             | 13B  | weight&data | 73.8      | 69.5       | 71.7 | 61.7  |
-| IF-CL              | 13B  | weight&data | 74.4      | 68.3       | 69.7 | 59.4  |
-| IF-CLP             | 34B  | weight&data | 75.6      | 69.5       | 73.7 | 62.7  |
-| IF-CL              | 34B  | weight&data | 78.7      | 71.3       | 71.4 | 60.7  |
-| IF-CL-MC           | 7B   | weight&data | 76.2      | 71.3       | 70.4 | 57.9  |
-| IF-CL-MC           | 13B  | weight&data | 79.3      | 72.6       | 69.2 | 57.4  |
-| IF-CL-MC           | 34B  | weight&data | 82.3      | 75.6       | 72.4 | 61.4  |
+| [IF-CLP](https://huggingface.co/Pasta009/IF-CLP-13B)             | 13B  | weight&data | 73.8      | 69.5       | 71.7 | 61.7  |
+| [IF-CL](https://huggingface.co/Pasta009/IF-CL-13B)              | 13B  | weight&data | 74.4      | 68.3       | 69.7 | 59.4  |
+| [IF-CLP](https://huggingface.co/Pasta009/IF-CLP-34B)             | 34B  | weight&data | 75.6      | 69.5       | 73.7 | 62.7  |
+| [IF-CL](https://huggingface.co/Pasta009/IF-CL-34B)              | 34B  | weight&data | 78.7      | 71.3       | 71.4 | 60.7  |
+| [IF-CL-MC](https://huggingface.co/Pasta009/IF-CL-MC-7B)           | 7B   | weight&data | 76.2      | 71.3       | 70.4 | 57.9  |
+| [IF-CL-MC](https://huggingface.co/Pasta009/IF-CL-MC-13B)           | 13B  | weight&data | 79.3      | 72.6       | 69.2 | 57.4  |
+| [IF-CL-MC](https://huggingface.co/Pasta009/IF-CL-MC-34B)           | 34B  | weight&data | 82.3      | 75.6       | 72.4 | 61.4  |
 
 # Bibtex
 ```
