@@ -47,13 +47,26 @@ We use evol-codealpaca-v1 as seeds.
 
 # Bibtex
 ```
-@misc{guo2024instruction,
-      title={Instruction Fusion: Advancing Prompt Evolution through Hybridization}, 
-      author={Weidong Guo and Jiuding Yang and Kaitong Yang and Xiangyang Li and Zhuwei Rao and Yu Xu and Di Niu},
-      year={2024},
-      eprint={2312.15692},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
+@inproceedings{guo-etal-2024-instruction,
+    title = "Instruction Fusion: Advancing Prompt Evolution through Hybridization",
+    author = "Guo, Weidong  and
+      Yang, Jiuding  and
+      Yang, Kaitong  and
+      Li, Xiangyang  and
+      Rao, Zhuwei  and
+      Xu, Yu  and
+      Niu, Di",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.214",
+    doi = "10.18653/v1/2024.acl-long.214",
+    pages = "3883--3893",
 }
 ```
 
